@@ -1,0 +1,42 @@
+[submodule "wezterm"]
+	path = wezterm
+	url = https://github.com/neko-night/wezterm
+[submodule "vim"]
+	path = vim
+	url = https://github.com/neko-night/vim
+[submodule "chrome"]
+	path = chrome
+	url = https://github.com/neko-night/chrome
+[submodule "windows-terminal"]
+	path = windows-terminal
+	url = https://github.com/neko-night/windows-terminal
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/neko-night/nvim
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = https://github.com/neko-night/oh-my-zsh
+[submodule "tabby"]
+	path = tabby
+	url = https://github.com/neko-night/tabby
+[submodule "oh-my-bash"]
+	path = oh-my-bash
+	url = https://github.com/neko-night/oh-my-bash
+[submodule "oh-my-posh"]
+	path = oh-my-posh
+	url = https://github.com/neko-night/oh-my-posh
+[submodule "highlightjs"]
+	path = highlightjs
+	url = https://github.com/neko-night/highlightjs
+[submodule "alacritty"]
+	path = alacritty
+	url = https://github.com/neko-night/alacritty
+[submodule "sublime"]
+	path = sublime
+	url = https://github.com/neko-night/sublime
+[submodule "emacs"]
+	path = emacs
+	url = https://github.com/neko-night/emacs
+[submodule "acode"]
+	path = acode
+	url = https://github.com/neko-night/acode
