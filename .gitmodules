@@ -40,3 +40,6 @@
 [submodule "acode"]
 	path = acode
 	url = https://github.com/neko-night/acode
+[submodule "helix"]
+	path = helix
+	url = https://github.com/neko-night/helix
