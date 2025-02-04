@@ -43,3 +43,6 @@
 [submodule "helix"]
 	path = helix
 	url = https://github.com/neko-night/helix
+[submodule "starship"]
+	path = starship
+	url = https://github.com/neko-night/starship
